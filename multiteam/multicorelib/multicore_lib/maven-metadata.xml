@@ -3,7 +3,7 @@
   <groupId>multiteam.multicorelib</groupId>
   <artifactId>multicore_lib</artifactId>
   <versioning>
-    <release>1.16.5-0.0.1.4</release>
+    <release>1.16.5-0.0.1.5</release>
     <versions>
       <version>0.0.1</version>
       <version>1.16.5-0.0.1</version>
@@ -11,7 +11,8 @@
       <version>1.16.5-0.0.1.2</version>
       <version>1.16.5-0.0.1.3</version>
       <version>1.16.5-0.0.1.4</version>
+      <version>1.16.5-0.0.1.5</version>
     </versions>
-    <lastUpdated>20210426170940</lastUpdated>
+    <lastUpdated>20210902195632</lastUpdated>
   </versioning>
 </metadata>
